@@ -1,0 +1,20 @@
+04-Dec-2023 09:12:36.405 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+04-Dec-2023 09:12:46.205 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+04-Dec-2023 09:15:33.017 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+04-Dec-2023 09:15:45.144 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+04-Dec-2023 16:27:01.825 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+04-Dec-2023 16:27:07.662 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+04-Dec-2023 16:53:32.968 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+04-Dec-2023 16:53:45.092 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+04-Dec-2023 17:18:45.350 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+04-Dec-2023 17:19:33.019 INFO [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+04-Dec-2023 17:21:02.301 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+04-Dec-2023 17:21:07.929 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+04-Dec-2023 17:33:13.533 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+04-Dec-2023 17:33:22.231 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+04-Dec-2023 17:35:05.943 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+04-Dec-2023 17:35:11.298 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+04-Dec-2023 17:50:01.003 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+04-Dec-2023 17:50:18.522 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+04-Dec-2023 17:57:20.123 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+04-Dec-2023 17:57:28.628 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'

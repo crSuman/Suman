@@ -1,0 +1,472 @@
+04-Dec-2023 09:12:31.605 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.83
+04-Dec-2023 09:12:31.613 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 9 2023 20:57:42 UTC
+04-Dec-2023 09:12:31.614 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.83.0
+04-Dec-2023 09:12:31.614 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+04-Dec-2023 09:12:31.614 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-Dec-2023 09:12:31.614 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Dec-2023 09:12:31.615 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17
+04-Dec-2023 09:12:31.615 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.9+11-LTS-201
+04-Dec-2023 09:12:31.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Dec-2023 09:12:31.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Suman Kunwar\IdeaProjects\suman
+04-Dec-2023 09:12:31.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-9.0.83
+04-Dec-2023 09:12:31.634 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2023 09:12:31.634 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2023 09:12:31.634 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2023 09:12:31.635 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2023 09:12:31.635 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2023 09:12:31.635 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-9.0.83
+04-Dec-2023 09:12:31.635 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Suman Kunwar\IdeaProjects\suman
+04-Dec-2023 09:12:31.635 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Suman Kunwar\IdeaProjects\suman\temp
+04-Dec-2023 09:12:31.635 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Suman Kunwar\IdeaProjects\suman\conf\logging.properties
+04-Dec-2023 09:12:31.635 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2023 09:12:31.635 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Didea.launcher.port=60442
+04-Dec-2023 09:12:31.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Didea.launcher.bin.path=C:\Users\Suman Kunwar\Downloads\ideaIU-2019.3.1.win\bin
+04-Dec-2023 09:12:31.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2023 09:12:31.669 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+04-Dec-2023 09:12:31.669 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+04-Dec-2023 09:12:31.669 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+04-Dec-2023 09:12:31.696 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+04-Dec-2023 09:12:32.306 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Dec-2023 09:12:32.339 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1030] milliseconds
+04-Dec-2023 09:12:32.388 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2023 09:12:32.388 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.83]
+04-Dec-2023 09:12:32.412 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Suman Kunwar\IdeaProjects\suman\conf\Catalina\localhost\suman.xml]
+04-Dec-2023 09:12:36.345 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2023 09:12:36.503 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Suman Kunwar\IdeaProjects\suman\conf\Catalina\localhost\suman.xml] has finished in [4,090] ms
+04-Dec-2023 09:12:36.508 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Dec-2023 09:12:36.587 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4246] milliseconds
+04-Dec-2023 09:12:46.205 INFO [http-nio-8080-exec-4] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'spring'
+04-Dec-2023 09:12:48.814 INFO [http-nio-8080-exec-4] org.hibernate.Version.logVersion HHH000412: Hibernate Core {5.3.23.Final}
+04-Dec-2023 09:12:48.818 INFO [http-nio-8080-exec-4] org.hibernate.cfg.Environment.<clinit> HHH000206: hibernate.properties not found
+04-Dec-2023 09:12:49.330 INFO [http-nio-8080-exec-4] org.hibernate.annotations.common.reflection.java.JavaReflectionManager.<clinit> HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+04-Dec-2023 09:12:50.066 INFO [http-nio-8080-exec-4] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+04-Dec-2023 09:12:52.076 INFO [http-nio-8080-exec-4] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 5869 ms
+04-Dec-2023 09:15:27.687 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.83
+04-Dec-2023 09:15:27.696 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 9 2023 20:57:42 UTC
+04-Dec-2023 09:15:27.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.83.0
+04-Dec-2023 09:15:27.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+04-Dec-2023 09:15:27.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-Dec-2023 09:15:27.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Dec-2023 09:15:27.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17
+04-Dec-2023 09:15:27.699 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.9+11-LTS-201
+04-Dec-2023 09:15:27.699 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Dec-2023 09:15:27.699 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Suman Kunwar\IdeaProjects\suman
+04-Dec-2023 09:15:27.699 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-9.0.83
+04-Dec-2023 09:15:27.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2023 09:15:27.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2023 09:15:27.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2023 09:15:27.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2023 09:15:27.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2023 09:15:27.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-9.0.83
+04-Dec-2023 09:15:27.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Suman Kunwar\IdeaProjects\suman
+04-Dec-2023 09:15:27.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Suman Kunwar\IdeaProjects\suman\temp
+04-Dec-2023 09:15:27.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Suman Kunwar\IdeaProjects\suman\conf\logging.properties
+04-Dec-2023 09:15:27.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2023 09:15:27.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Didea.launcher.port=60463
+04-Dec-2023 09:15:27.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Didea.launcher.bin.path=C:\Users\Suman Kunwar\Downloads\ideaIU-2019.3.1.win\bin
+04-Dec-2023 09:15:27.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2023 09:15:27.728 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+04-Dec-2023 09:15:27.728 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+04-Dec-2023 09:15:27.728 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+04-Dec-2023 09:15:27.737 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+04-Dec-2023 09:15:28.327 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Dec-2023 09:15:28.362 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1063] milliseconds
+04-Dec-2023 09:15:28.432 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2023 09:15:28.432 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.83]
+04-Dec-2023 09:15:28.442 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Suman Kunwar\IdeaProjects\suman\conf\Catalina\localhost\suman.xml]
+04-Dec-2023 09:15:32.947 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2023 09:15:33.087 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Suman Kunwar\IdeaProjects\suman\conf\Catalina\localhost\suman.xml] has finished in [4,645] ms
+04-Dec-2023 09:15:33.090 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Dec-2023 09:15:33.138 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4779] milliseconds
+04-Dec-2023 09:15:45.145 INFO [http-nio-8080-exec-3] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'spring'
+04-Dec-2023 09:15:47.625 INFO [http-nio-8080-exec-3] org.hibernate.Version.logVersion HHH000412: Hibernate Core {5.3.23.Final}
+04-Dec-2023 09:15:47.630 INFO [http-nio-8080-exec-3] org.hibernate.cfg.Environment.<clinit> HHH000206: hibernate.properties not found
+04-Dec-2023 09:15:48.165 INFO [http-nio-8080-exec-3] org.hibernate.annotations.common.reflection.java.JavaReflectionManager.<clinit> HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+04-Dec-2023 09:15:48.855 INFO [http-nio-8080-exec-3] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+04-Dec-2023 09:15:50.941 INFO [http-nio-8080-exec-3] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 5796 ms
+04-Dec-2023 16:26:57.021 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.83
+04-Dec-2023 16:26:57.039 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 9 2023 20:57:42 UTC
+04-Dec-2023 16:26:57.040 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.83.0
+04-Dec-2023 16:26:57.040 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+04-Dec-2023 16:26:57.040 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-Dec-2023 16:26:57.040 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Dec-2023 16:26:57.040 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17
+04-Dec-2023 16:26:57.040 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.9+11-LTS-201
+04-Dec-2023 16:26:57.040 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Dec-2023 16:26:57.040 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Suman Kunwar\IdeaProjects\suman
+04-Dec-2023 16:26:57.040 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-9.0.83
+04-Dec-2023 16:26:57.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2023 16:26:57.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2023 16:26:57.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2023 16:26:57.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2023 16:26:57.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2023 16:26:57.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-9.0.83
+04-Dec-2023 16:26:57.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Suman Kunwar\IdeaProjects\suman
+04-Dec-2023 16:26:57.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Suman Kunwar\IdeaProjects\suman\temp
+04-Dec-2023 16:26:57.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Suman Kunwar\IdeaProjects\suman\conf\logging.properties
+04-Dec-2023 16:26:57.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2023 16:26:57.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Didea.launcher.port=62490
+04-Dec-2023 16:26:57.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Didea.launcher.bin.path=C:\Users\Suman Kunwar\Downloads\ideaIU-2019.3.1.win\bin
+04-Dec-2023 16:26:57.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2023 16:26:57.091 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+04-Dec-2023 16:26:57.091 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+04-Dec-2023 16:26:57.091 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+04-Dec-2023 16:26:57.122 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+04-Dec-2023 16:26:57.872 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Dec-2023 16:26:58.044 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1287] milliseconds
+04-Dec-2023 16:26:58.169 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2023 16:26:58.169 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.83]
+04-Dec-2023 16:26:58.184 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Suman Kunwar\IdeaProjects\suman\conf\Catalina\localhost\suman.xml]
+04-Dec-2023 16:27:01.762 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2023 16:27:01.903 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Suman Kunwar\IdeaProjects\suman\conf\Catalina\localhost\suman.xml] has finished in [3,719] ms
+04-Dec-2023 16:27:01.903 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Dec-2023 16:27:01.950 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3898] milliseconds
+04-Dec-2023 16:27:07.662 INFO [http-nio-8080-exec-4] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'spring'
+04-Dec-2023 16:27:10.007 INFO [http-nio-8080-exec-4] org.hibernate.Version.logVersion HHH000412: Hibernate Core {5.3.23.Final}
+04-Dec-2023 16:27:10.008 INFO [http-nio-8080-exec-4] org.hibernate.cfg.Environment.<clinit> HHH000206: hibernate.properties not found
+04-Dec-2023 16:27:10.529 INFO [http-nio-8080-exec-4] org.hibernate.annotations.common.reflection.java.JavaReflectionManager.<clinit> HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+04-Dec-2023 16:27:11.193 INFO [http-nio-8080-exec-4] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+04-Dec-2023 16:27:13.144 INFO [http-nio-8080-exec-4] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 5482 ms
+04-Dec-2023 16:27:24.207 WARN [http-nio-8080-exec-5] org.hibernate.internal.SessionImpl.createCriteria HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+04-Dec-2023 16:28:49.580 WARNING [http-nio-8080-exec-8] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /suman/Controller
+04-Dec-2023 16:53:28.162 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.83
+04-Dec-2023 16:53:28.162 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 9 2023 20:57:42 UTC
+04-Dec-2023 16:53:28.177 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.83.0
+04-Dec-2023 16:53:28.177 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+04-Dec-2023 16:53:28.177 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-Dec-2023 16:53:28.177 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Dec-2023 16:53:28.177 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17
+04-Dec-2023 16:53:28.177 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.9+11-LTS-201
+04-Dec-2023 16:53:28.177 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Dec-2023 16:53:28.177 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Suman Kunwar\IdeaProjects\suman
+04-Dec-2023 16:53:28.177 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-9.0.83
+04-Dec-2023 16:53:28.187 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2023 16:53:28.187 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2023 16:53:28.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2023 16:53:28.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2023 16:53:28.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2023 16:53:28.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-9.0.83
+04-Dec-2023 16:53:28.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Suman Kunwar\IdeaProjects\suman
+04-Dec-2023 16:53:28.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Suman Kunwar\IdeaProjects\suman\temp
+04-Dec-2023 16:53:28.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Suman Kunwar\IdeaProjects\suman\conf\logging.properties
+04-Dec-2023 16:53:28.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2023 16:53:28.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Didea.launcher.port=62673
+04-Dec-2023 16:53:28.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Didea.launcher.bin.path=C:\Users\Suman Kunwar\Downloads\ideaIU-2019.3.1.win\bin
+04-Dec-2023 16:53:28.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2023 16:53:28.202 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+04-Dec-2023 16:53:28.202 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+04-Dec-2023 16:53:28.202 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+04-Dec-2023 16:53:28.218 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+04-Dec-2023 16:53:28.749 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Dec-2023 16:53:28.765 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [980] milliseconds
+04-Dec-2023 16:53:28.827 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2023 16:53:28.827 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.83]
+04-Dec-2023 16:53:28.843 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Suman Kunwar\IdeaProjects\suman\conf\Catalina\localhost\suman.xml]
+04-Dec-2023 16:53:32.921 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2023 16:53:33.046 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Suman Kunwar\IdeaProjects\suman\conf\Catalina\localhost\suman.xml] has finished in [4,203] ms
+04-Dec-2023 16:53:33.052 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Dec-2023 16:53:33.099 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4332] milliseconds
+04-Dec-2023 16:53:45.092 INFO [http-nio-8080-exec-2] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'spring'
+04-Dec-2023 16:53:47.992 INFO [http-nio-8080-exec-2] org.hibernate.Version.logVersion HHH000412: Hibernate Core {5.3.23.Final}
+04-Dec-2023 16:53:47.996 INFO [http-nio-8080-exec-2] org.hibernate.cfg.Environment.<clinit> HHH000206: hibernate.properties not found
+04-Dec-2023 16:53:48.467 INFO [http-nio-8080-exec-2] org.hibernate.annotations.common.reflection.java.JavaReflectionManager.<clinit> HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+04-Dec-2023 16:53:49.109 INFO [http-nio-8080-exec-2] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+04-Dec-2023 16:53:51.518 INFO [http-nio-8080-exec-2] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 6426 ms
+04-Dec-2023 16:54:14.417 WARN [http-nio-8080-exec-7] org.hibernate.internal.SessionImpl.createCriteria HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+04-Dec-2023 16:55:03.893 WARN [http-nio-8080-exec-9] org.hibernate.internal.SessionImpl.createCriteria HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+04-Dec-2023 17:18:40.987 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.83
+04-Dec-2023 17:18:40.987 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 9 2023 20:57:42 UTC
+04-Dec-2023 17:18:40.987 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.83.0
+04-Dec-2023 17:18:40.987 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+04-Dec-2023 17:18:40.987 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-Dec-2023 17:18:40.987 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Dec-2023 17:18:40.987 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17
+04-Dec-2023 17:18:40.987 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.9+11-LTS-201
+04-Dec-2023 17:18:40.987 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Dec-2023 17:18:40.987 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Suman Kunwar\IdeaProjects\suman
+04-Dec-2023 17:18:40.987 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-9.0.83
+04-Dec-2023 17:18:41.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2023 17:18:41.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2023 17:18:41.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2023 17:18:41.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2023 17:18:41.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2023 17:18:41.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-9.0.83
+04-Dec-2023 17:18:41.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Suman Kunwar\IdeaProjects\suman
+04-Dec-2023 17:18:41.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Suman Kunwar\IdeaProjects\suman\temp
+04-Dec-2023 17:18:41.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Suman Kunwar\IdeaProjects\suman\conf\logging.properties
+04-Dec-2023 17:18:41.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2023 17:18:41.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Didea.launcher.port=62821
+04-Dec-2023 17:18:41.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Didea.launcher.bin.path=C:\Users\Suman Kunwar\Downloads\ideaIU-2019.3.1.win\bin
+04-Dec-2023 17:18:41.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2023 17:18:41.022 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+04-Dec-2023 17:18:41.022 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+04-Dec-2023 17:18:41.022 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+04-Dec-2023 17:18:41.038 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+04-Dec-2023 17:18:41.491 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Dec-2023 17:18:41.537 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [953] milliseconds
+04-Dec-2023 17:18:41.600 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2023 17:18:41.600 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.83]
+04-Dec-2023 17:18:41.616 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Suman Kunwar\IdeaProjects\suman\conf\Catalina\localhost\suman.xml]
+04-Dec-2023 17:18:45.288 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2023 17:18:45.413 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Suman Kunwar\IdeaProjects\suman\conf\Catalina\localhost\suman.xml] has finished in [3,797] ms
+04-Dec-2023 17:18:45.429 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Dec-2023 17:18:45.476 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3937] milliseconds
+04-Dec-2023 17:19:33.019 INFO [http-nio-8080-exec-5] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'spring'
+04-Dec-2023 17:19:35.379 INFO [http-nio-8080-exec-5] org.hibernate.Version.logVersion HHH000412: Hibernate Core {5.3.23.Final}
+04-Dec-2023 17:19:35.395 INFO [http-nio-8080-exec-5] org.hibernate.cfg.Environment.<clinit> HHH000206: hibernate.properties not found
+04-Dec-2023 17:19:35.924 INFO [http-nio-8080-exec-5] org.hibernate.annotations.common.reflection.java.JavaReflectionManager.<clinit> HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+04-Dec-2023 17:19:36.554 INFO [http-nio-8080-exec-5] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+04-Dec-2023 17:19:38.438 INFO [http-nio-8080-exec-5] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 5419 ms
+04-Dec-2023 17:19:38.790 WARNING [http-nio-8080-exec-6] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /suman/styles.css
+04-Dec-2023 17:19:38.793 WARNING [http-nio-8080-exec-7] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /suman/script.js
+04-Dec-2023 17:20:57.594 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.83
+04-Dec-2023 17:20:57.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 9 2023 20:57:42 UTC
+04-Dec-2023 17:20:57.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.83.0
+04-Dec-2023 17:20:57.609 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+04-Dec-2023 17:20:57.609 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-Dec-2023 17:20:57.610 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Dec-2023 17:20:57.610 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17
+04-Dec-2023 17:20:57.610 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.9+11-LTS-201
+04-Dec-2023 17:20:57.610 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Dec-2023 17:20:57.611 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Suman Kunwar\IdeaProjects\suman
+04-Dec-2023 17:20:57.611 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-9.0.83
+04-Dec-2023 17:20:57.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2023 17:20:57.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2023 17:20:57.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2023 17:20:57.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2023 17:20:57.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2023 17:20:57.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-9.0.83
+04-Dec-2023 17:20:57.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Suman Kunwar\IdeaProjects\suman
+04-Dec-2023 17:20:57.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Suman Kunwar\IdeaProjects\suman\temp
+04-Dec-2023 17:20:57.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Suman Kunwar\IdeaProjects\suman\conf\logging.properties
+04-Dec-2023 17:20:57.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2023 17:20:57.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Didea.launcher.port=62844
+04-Dec-2023 17:20:57.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Didea.launcher.bin.path=C:\Users\Suman Kunwar\Downloads\ideaIU-2019.3.1.win\bin
+04-Dec-2023 17:20:57.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2023 17:20:57.630 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+04-Dec-2023 17:20:57.630 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+04-Dec-2023 17:20:57.630 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+04-Dec-2023 17:20:57.646 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+04-Dec-2023 17:20:58.146 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Dec-2023 17:20:58.177 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [946] milliseconds
+04-Dec-2023 17:20:58.255 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2023 17:20:58.255 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.83]
+04-Dec-2023 17:20:58.255 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Suman Kunwar\IdeaProjects\suman\conf\Catalina\localhost\suman.xml]
+04-Dec-2023 17:21:02.223 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2023 17:21:02.379 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Suman Kunwar\IdeaProjects\suman\conf\Catalina\localhost\suman.xml] has finished in [4,124] ms
+04-Dec-2023 17:21:02.379 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Dec-2023 17:21:02.441 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4268] milliseconds
+04-Dec-2023 17:21:07.929 INFO [http-nio-8080-exec-3] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'spring'
+04-Dec-2023 17:21:10.323 INFO [http-nio-8080-exec-3] org.hibernate.Version.logVersion HHH000412: Hibernate Core {5.3.23.Final}
+04-Dec-2023 17:21:10.326 INFO [http-nio-8080-exec-3] org.hibernate.cfg.Environment.<clinit> HHH000206: hibernate.properties not found
+04-Dec-2023 17:21:10.842 INFO [http-nio-8080-exec-3] org.hibernate.annotations.common.reflection.java.JavaReflectionManager.<clinit> HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+04-Dec-2023 17:21:11.508 INFO [http-nio-8080-exec-3] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+04-Dec-2023 17:21:13.438 INFO [http-nio-8080-exec-3] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 5509 ms
+04-Dec-2023 17:21:23.744 WARN [http-nio-8080-exec-4] org.hibernate.internal.SessionImpl.createCriteria HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+04-Dec-2023 17:21:29.143 WARN [http-nio-8080-exec-6] org.hibernate.internal.SessionImpl.createCriteria HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+04-Dec-2023 17:21:34.279 WARN [http-nio-8080-exec-7] org.hibernate.internal.SessionImpl.createCriteria HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+04-Dec-2023 17:33:08.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.83
+04-Dec-2023 17:33:08.799 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 9 2023 20:57:42 UTC
+04-Dec-2023 17:33:08.814 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.83.0
+04-Dec-2023 17:33:08.814 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+04-Dec-2023 17:33:08.814 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-Dec-2023 17:33:08.814 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Dec-2023 17:33:08.814 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17
+04-Dec-2023 17:33:08.814 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.9+11-LTS-201
+04-Dec-2023 17:33:08.814 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Dec-2023 17:33:08.814 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Suman Kunwar\IdeaProjects\suman
+04-Dec-2023 17:33:08.814 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-9.0.83
+04-Dec-2023 17:33:08.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2023 17:33:08.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2023 17:33:08.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2023 17:33:08.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2023 17:33:08.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2023 17:33:08.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-9.0.83
+04-Dec-2023 17:33:08.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Suman Kunwar\IdeaProjects\suman
+04-Dec-2023 17:33:08.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Suman Kunwar\IdeaProjects\suman\temp
+04-Dec-2023 17:33:08.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Suman Kunwar\IdeaProjects\suman\conf\logging.properties
+04-Dec-2023 17:33:08.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2023 17:33:08.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Didea.launcher.port=62949
+04-Dec-2023 17:33:08.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Didea.launcher.bin.path=C:\Users\Suman Kunwar\Downloads\ideaIU-2019.3.1.win\bin
+04-Dec-2023 17:33:08.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2023 17:33:08.845 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+04-Dec-2023 17:33:08.845 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+04-Dec-2023 17:33:08.845 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+04-Dec-2023 17:33:08.861 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+04-Dec-2023 17:33:09.392 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Dec-2023 17:33:09.423 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1099] milliseconds
+04-Dec-2023 17:33:09.486 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2023 17:33:09.486 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.83]
+04-Dec-2023 17:33:09.502 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Suman Kunwar\IdeaProjects\suman\conf\Catalina\localhost\suman.xml]
+04-Dec-2023 17:33:13.486 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2023 17:33:13.611 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Suman Kunwar\IdeaProjects\suman\conf\Catalina\localhost\suman.xml] has finished in [4,109] ms
+04-Dec-2023 17:33:13.611 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Dec-2023 17:33:13.674 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4246] milliseconds
+04-Dec-2023 17:33:22.231 INFO [http-nio-8080-exec-4] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'spring'
+04-Dec-2023 17:33:24.940 INFO [http-nio-8080-exec-4] org.hibernate.Version.logVersion HHH000412: Hibernate Core {5.3.23.Final}
+04-Dec-2023 17:33:24.944 INFO [http-nio-8080-exec-4] org.hibernate.cfg.Environment.<clinit> HHH000206: hibernate.properties not found
+04-Dec-2023 17:33:25.481 INFO [http-nio-8080-exec-4] org.hibernate.annotations.common.reflection.java.JavaReflectionManager.<clinit> HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+04-Dec-2023 17:33:26.144 INFO [http-nio-8080-exec-4] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+04-Dec-2023 17:33:28.031 INFO [http-nio-8080-exec-4] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 5800 ms
+04-Dec-2023 17:33:28.498 WARN [http-nio-8080-exec-3] org.hibernate.internal.SessionImpl.createCriteria HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+04-Dec-2023 17:33:58.942 INFO [http-nio-8080-exec-6] org.apache.coyote.http11.Http11Processor.service Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+	java.lang.IllegalArgumentException: Invalid character found in the request target [/suman/editUser?id=$-{student.id} ]. The valid characters are defined in RFC 7230 and RFC 3986
+		at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:482)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:263)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:928)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1794)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+04-Dec-2023 17:35:01.397 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.83
+04-Dec-2023 17:35:01.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 9 2023 20:57:42 UTC
+04-Dec-2023 17:35:01.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.83.0
+04-Dec-2023 17:35:01.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+04-Dec-2023 17:35:01.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-Dec-2023 17:35:01.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Dec-2023 17:35:01.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17
+04-Dec-2023 17:35:01.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.9+11-LTS-201
+04-Dec-2023 17:35:01.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Dec-2023 17:35:01.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Suman Kunwar\IdeaProjects\suman
+04-Dec-2023 17:35:01.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-9.0.83
+04-Dec-2023 17:35:01.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2023 17:35:01.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2023 17:35:01.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2023 17:35:01.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2023 17:35:01.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2023 17:35:01.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-9.0.83
+04-Dec-2023 17:35:01.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Suman Kunwar\IdeaProjects\suman
+04-Dec-2023 17:35:01.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Suman Kunwar\IdeaProjects\suman\temp
+04-Dec-2023 17:35:01.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Suman Kunwar\IdeaProjects\suman\conf\logging.properties
+04-Dec-2023 17:35:01.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2023 17:35:01.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Didea.launcher.port=62975
+04-Dec-2023 17:35:01.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Didea.launcher.bin.path=C:\Users\Suman Kunwar\Downloads\ideaIU-2019.3.1.win\bin
+04-Dec-2023 17:35:01.428 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2023 17:35:01.443 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+04-Dec-2023 17:35:01.443 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+04-Dec-2023 17:35:01.443 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+04-Dec-2023 17:35:01.443 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+04-Dec-2023 17:35:01.975 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Dec-2023 17:35:02.006 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [975] milliseconds
+04-Dec-2023 17:35:02.084 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2023 17:35:02.084 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.83]
+04-Dec-2023 17:35:02.100 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Suman Kunwar\IdeaProjects\suman\conf\Catalina\localhost\suman.xml]
+04-Dec-2023 17:35:05.880 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2023 17:35:06.021 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Suman Kunwar\IdeaProjects\suman\conf\Catalina\localhost\suman.xml] has finished in [3,921] ms
+04-Dec-2023 17:35:06.036 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Dec-2023 17:35:06.083 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4083] milliseconds
+04-Dec-2023 17:35:11.298 INFO [http-nio-8080-exec-3] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'spring'
+04-Dec-2023 17:35:13.622 INFO [http-nio-8080-exec-3] org.hibernate.Version.logVersion HHH000412: Hibernate Core {5.3.23.Final}
+04-Dec-2023 17:35:13.625 INFO [http-nio-8080-exec-3] org.hibernate.cfg.Environment.<clinit> HHH000206: hibernate.properties not found
+04-Dec-2023 17:35:14.167 INFO [http-nio-8080-exec-3] org.hibernate.annotations.common.reflection.java.JavaReflectionManager.<clinit> HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+04-Dec-2023 17:35:14.818 INFO [http-nio-8080-exec-3] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+04-Dec-2023 17:35:16.751 INFO [http-nio-8080-exec-3] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 5453 ms
+04-Dec-2023 17:35:17.197 WARN [http-nio-8080-exec-4] org.hibernate.internal.SessionImpl.createCriteria HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+04-Dec-2023 17:35:22.994 INFO [http-nio-8080-exec-5] org.apache.coyote.http11.Http11Processor.service Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+	java.lang.IllegalArgumentException: Invalid character found in the request target [/suman/deleteUser?id=$-{student.id} ]. The valid characters are defined in RFC 7230 and RFC 3986
+		at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:482)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:263)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:928)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1794)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+04-Dec-2023 17:49:56.550 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.83
+04-Dec-2023 17:49:56.566 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 9 2023 20:57:42 UTC
+04-Dec-2023 17:49:56.566 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.83.0
+04-Dec-2023 17:49:56.566 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+04-Dec-2023 17:49:56.566 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-Dec-2023 17:49:56.566 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Dec-2023 17:49:56.566 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17
+04-Dec-2023 17:49:56.566 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.9+11-LTS-201
+04-Dec-2023 17:49:56.566 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Dec-2023 17:49:56.566 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Suman Kunwar\IdeaProjects\suman
+04-Dec-2023 17:49:56.566 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-9.0.83
+04-Dec-2023 17:49:56.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2023 17:49:56.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2023 17:49:56.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2023 17:49:56.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2023 17:49:56.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2023 17:49:56.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-9.0.83
+04-Dec-2023 17:49:56.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Suman Kunwar\IdeaProjects\suman
+04-Dec-2023 17:49:56.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Suman Kunwar\IdeaProjects\suman\temp
+04-Dec-2023 17:49:56.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Suman Kunwar\IdeaProjects\suman\conf\logging.properties
+04-Dec-2023 17:49:56.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2023 17:49:56.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Didea.launcher.port=63058
+04-Dec-2023 17:49:56.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Didea.launcher.bin.path=C:\Users\Suman Kunwar\Downloads\ideaIU-2019.3.1.win\bin
+04-Dec-2023 17:49:56.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2023 17:49:56.582 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+04-Dec-2023 17:49:56.597 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+04-Dec-2023 17:49:56.597 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+04-Dec-2023 17:49:56.597 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+04-Dec-2023 17:49:57.128 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Dec-2023 17:49:57.160 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [987] milliseconds
+04-Dec-2023 17:49:57.222 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2023 17:49:57.222 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.83]
+04-Dec-2023 17:49:57.238 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Suman Kunwar\IdeaProjects\suman\conf\Catalina\localhost\suman.xml]
+04-Dec-2023 17:50:00.940 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2023 17:50:01.081 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Suman Kunwar\IdeaProjects\suman\conf\Catalina\localhost\suman.xml] has finished in [3,843] ms
+04-Dec-2023 17:50:01.081 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Dec-2023 17:50:01.144 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3986] milliseconds
+04-Dec-2023 17:50:18.522 INFO [http-nio-8080-exec-3] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'spring'
+04-Dec-2023 17:50:20.900 INFO [http-nio-8080-exec-3] org.hibernate.Version.logVersion HHH000412: Hibernate Core {5.3.23.Final}
+04-Dec-2023 17:50:20.900 INFO [http-nio-8080-exec-3] org.hibernate.cfg.Environment.<clinit> HHH000206: hibernate.properties not found
+04-Dec-2023 17:50:21.421 INFO [http-nio-8080-exec-3] org.hibernate.annotations.common.reflection.java.JavaReflectionManager.<clinit> HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+04-Dec-2023 17:50:22.084 INFO [http-nio-8080-exec-3] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+04-Dec-2023 17:50:23.972 INFO [http-nio-8080-exec-3] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 5450 ms
+04-Dec-2023 17:50:24.422 WARN [http-nio-8080-exec-4] org.hibernate.internal.SessionImpl.createCriteria HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+04-Dec-2023 17:50:45.909 WARN [http-nio-8080-exec-6] org.hibernate.internal.SessionImpl.createCriteria HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+04-Dec-2023 17:57:14.912 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.83
+04-Dec-2023 17:57:14.928 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 9 2023 20:57:42 UTC
+04-Dec-2023 17:57:14.928 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.83.0
+04-Dec-2023 17:57:14.928 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+04-Dec-2023 17:57:14.928 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-Dec-2023 17:57:14.928 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Dec-2023 17:57:14.928 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17
+04-Dec-2023 17:57:14.928 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.9+11-LTS-201
+04-Dec-2023 17:57:14.928 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Dec-2023 17:57:14.928 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Suman Kunwar\IdeaProjects\suman
+04-Dec-2023 17:57:14.928 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-9.0.83
+04-Dec-2023 17:57:14.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2023 17:57:14.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2023 17:57:14.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2023 17:57:14.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2023 17:57:14.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2023 17:57:14.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-9.0.83
+04-Dec-2023 17:57:14.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Suman Kunwar\IdeaProjects\suman
+04-Dec-2023 17:57:14.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Suman Kunwar\IdeaProjects\suman\temp
+04-Dec-2023 17:57:14.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Suman Kunwar\IdeaProjects\suman\conf\logging.properties
+04-Dec-2023 17:57:14.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2023 17:57:14.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Didea.launcher.port=63104
+04-Dec-2023 17:57:14.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Didea.launcher.bin.path=C:\Users\Suman Kunwar\Downloads\ideaIU-2019.3.1.win\bin
+04-Dec-2023 17:57:14.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2023 17:57:14.952 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+04-Dec-2023 17:57:14.952 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+04-Dec-2023 17:57:14.952 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+04-Dec-2023 17:57:14.952 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+04-Dec-2023 17:57:15.514 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Dec-2023 17:57:15.561 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1033] milliseconds
+04-Dec-2023 17:57:15.639 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2023 17:57:15.639 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.83]
+04-Dec-2023 17:57:15.656 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Suman Kunwar\IdeaProjects\suman\conf\Catalina\localhost\suman.xml]
+04-Dec-2023 17:57:20.061 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2023 17:57:20.201 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Suman Kunwar\IdeaProjects\suman\conf\Catalina\localhost\suman.xml] has finished in [4,545] ms
+04-Dec-2023 17:57:20.213 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Dec-2023 17:57:20.259 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4693] milliseconds
+04-Dec-2023 17:57:28.628 INFO [http-nio-8080-exec-3] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'spring'
+04-Dec-2023 17:57:31.078 INFO [http-nio-8080-exec-3] org.hibernate.Version.logVersion HHH000412: Hibernate Core {5.3.23.Final}
+04-Dec-2023 17:57:31.081 INFO [http-nio-8080-exec-3] org.hibernate.cfg.Environment.<clinit> HHH000206: hibernate.properties not found
+04-Dec-2023 17:57:31.571 INFO [http-nio-8080-exec-3] org.hibernate.annotations.common.reflection.java.JavaReflectionManager.<clinit> HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+04-Dec-2023 17:57:32.214 INFO [http-nio-8080-exec-3] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+04-Dec-2023 17:57:34.178 INFO [http-nio-8080-exec-3] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 5550 ms
+04-Dec-2023 17:57:59.841 WARN [http-nio-8080-exec-6] org.hibernate.internal.SessionImpl.createCriteria HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+04-Dec-2023 17:58:03.942 WARNING [http-nio-8080-exec-8] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /suman/styles.css
+04-Dec-2023 17:58:03.942 WARNING [http-nio-8080-exec-9] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /suman/script.js

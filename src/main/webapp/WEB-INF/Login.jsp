@@ -61,7 +61,7 @@
 
     <script>
         function validateForm() {
-            var username = document.getElementById('username').value;
+            var username = document.getElementById('name').value;
             var password = document.getElementById('password').value;
 
             // Simple validation, you can add more complex validation as needed
@@ -79,8 +79,8 @@
 <div class="container">
     <form id="loginForm" onsubmit="validateForm(); return false;">
         <h2>Login</h2>
-        <label for="username">Username:</label>
-        <input type="text" id="username" name="username" required>
+        <label for="name">Username:</label>
+        <input type="text" id="name" name="name" required>
 
         <label for="password">Password:</label>
         <input type="password" id="password" name="password" required>

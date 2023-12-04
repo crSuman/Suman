@@ -52,7 +52,7 @@
 </head>
 <body>
 
-<form action="/submit" method="post">
+<form action="submit" method="post">
     <label for="name">UserName:</label>
     <input type="text" id="name" name="name" required>
 
@@ -64,6 +64,8 @@
 
     <button type="submit">Sign Up</button>
 </form>
+<p>Already have an account? <a href="Controller?action=login">Login</a></p>
+
 
 </body>
 </html>
